@@ -44,6 +44,9 @@
     <td>
       <img src="https://github.com/Seoin02.png?size=100" width="150px" height="15%"/>
     </td>
+    <td>
+      <img src="https://github.com/elenfl0122.png?size=100" width="150px" height="15%"/>
+    </td>
   </tr>
   <tr>
       <td align="center">
@@ -54,6 +57,11 @@
       <td align="center">
         <a href="https://github.com/Seoin02">
         이서인
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/elenfl0122">
+        이지수
         </a>
       </td>
   </tr>
@@ -88,4 +96,4 @@
   
 ## 🔵 목표 인증 방법 
      GitHub에 일주일(목~수)단위로 7문제 업로드한다.
-     업로드 시각은 목요일 AM12:00 ~ 수요일 PM11:59 기준으로 한다.
+     업로드 시각은 목요일 AM12:00 ~ 화요일 PM11:59 기준으로 한다.
