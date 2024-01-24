@@ -1,4 +1,4 @@
 function solution(numbers) {
-    let asc = numbers.sort((a, b) => a - b);
-    return asc[asc.length-1] * asc[asc.length - 2];
+    numbers.sort((a, b) => a - b);
+    return numbers[numbers.length - 1] * numbers[numbers.length - 2];
 }
