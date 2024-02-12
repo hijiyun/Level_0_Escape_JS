@@ -1,4 +1,4 @@
-//다른풀이들
+//다른풀이
 
 function solution(a, b) {
 
