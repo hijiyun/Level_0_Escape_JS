@@ -1,4 +1,5 @@
 function solution(n) {
+    // 24.02.15 [Lv0 탈출]
     const slice = 6;
     let pizza = 1;
     
@@ -7,4 +8,3 @@ function solution(n) {
         pizza++;
     }
 }
-
