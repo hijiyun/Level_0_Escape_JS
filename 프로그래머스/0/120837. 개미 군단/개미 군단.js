@@ -1,5 +1,5 @@
 function solution(hp) {
-    // 24.02.14 [Lv0 탈출]
+    // 24.02.15 [Lv0 탈출]
     let rhp = hp;
     const ANT_HP = [5, 3, 1];
     return ANT_HP.map((el) => {
